@@ -16,3 +16,4 @@ So in the text boxes you have to enter such a number that the sum is the number 
 ```
 
 # Preview
+![master](preview.png)
